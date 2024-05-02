@@ -1,0 +1,16 @@
+{
+  "name": "iriusrisk-s3-security-integration-fdbmgu",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/mordiscos/iriusrisk-s3-security-integration-fdbmgu.git",
+  "author": "mordisco <mordisco@mordisco.xyz> (https://www.mordisco.xyz)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
